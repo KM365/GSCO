@@ -1,2 +1,6 @@
-# GSCO
-WhiteHat Jr project C 20
+*Whitehat Jr*    Project C 20
+
+by *Kurian Martin*
+
+
+Creative Commons
